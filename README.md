@@ -1,2 +1,3 @@
 # Convolution_Neural_Scratch
-Implementation of Convolution Functions fro  Scratch .
+The above code is implementation of Convolution functions like Zero Padding ,convolution Forward 
+and Pooling functions like pooling formward ,creating mask from scratch in numpy .
